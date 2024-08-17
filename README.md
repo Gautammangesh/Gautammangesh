@@ -16,9 +16,11 @@
 
 <img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently working on **MERN Projects**
+- 🔭 I’m currently working on improving **Web Development Skill**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Data Structures & Algorithm**
+  
+- 👯 I’m looking to collaborate on **AI & ML Projects**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
@@ -75,7 +77,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://github.com/Gautammangesh/Gautammangesh/blob/main/contribution-snake.yml" alt="snake">
+  <img src="https://github.com/Gautammangesh/Gautammangesh/blob/output/github-snake.svg" alt="snake">
 </p>
 
 <p align="center"><b>Have some fun!</b></p>
