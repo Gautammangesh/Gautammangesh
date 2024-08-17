@@ -11,7 +11,7 @@
 <h4 align="center" style="font-family: 'Poppins', sans-serif;">A Third Year Student pursuing B E Information Technology and Engineering at Don Bosco Institute of Technology</h4>
 <br><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Full+Stack+Web+Developer;UI/UX+Designer;Cricket+Addict;Anime+Lover;&center=true&width=500&height=60"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Full+Stack+Web+Developer;UI/UX+Designer;TypeScript+Developer;Cricket+Addict;Anime+Lover;&center=true&width=500&height=60"></a>
 </p>
 
 <img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
