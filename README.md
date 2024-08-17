@@ -3,7 +3,7 @@
 </p>
 -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" height="400">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="400">
 </h2>
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mangesh Gautam 😄</h2>
 <h4 align="center" style="font-family: 'Poppins', sans-serif;">A Third Year Student pursuing B E Information Technology and Engineering at Don Bosco Institute of Technology</h4>
