@@ -75,7 +75,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://github.com/Gautammangesh/Gautammangesh/blob/output/github-snake.svg" alt="snake">
+  <img src="https://github.com/Gautammangesh/Gautammangesh/blob/main/contribution-snake.svg" alt="snake">
 </p>
 
 <p align="center"><b>Have some fun!</b></p>
