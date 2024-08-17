@@ -20,8 +20,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **AI & ML Projects**
-
 - 🤝 I’m looking for help with **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/Gautammangesh)
@@ -36,14 +34,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,bootstrap,php,react,nodejs,expressjs,mysql,mongodb,tailwind,nextjs,git,figma,latex,vite,visualstudio,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,bootstrap,php,react,nodejs,expressjs,mysql,mongodb,tailwind,nextjs,git,figma,latex,vite,visualstudio&theme=dark" />
   </a>
 </p>
 
 <br>
 <!--
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">🏆 Github Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-b-mugundh&theme=radical" alt="j-b-mugundh" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautammangesh&theme=radical" alt="Gautammangesh" /></a> </p> -->
 
 <br>
 
@@ -73,7 +71,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BGautammangesh10%7D/count.svg" alt="visitor badge"/></p>
 <br>
 <!-- <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=J-B-Mugundh&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Gautammangesh&style=for-the-badge&color=orange" alt=""/>
 </div> -->
 
 <p align="center">
