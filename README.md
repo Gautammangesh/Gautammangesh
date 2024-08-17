@@ -41,9 +41,9 @@
 </p>
 
 <br>
-<!--
+
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">🏆 Github Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautammangesh&theme=radical" alt="Gautammangesh" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautammangesh&theme=radical" alt="Gautammangesh" /></a> </p> 
 
 <br>
 
