@@ -5,13 +5,14 @@
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="400">
 </h2>
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mangesh Gautam 😄</h2>
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mangesh Gautam 😄</h1>
 <h4 align="center" style="font-family: 'Poppins', sans-serif;">A Third Year Student pursuing B E Information Technology and Engineering at Don Bosco Institute of Technology</h4>
-<br><br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Full+Stack+Web+Developer;UI/UX+Designer;TypeScript+Developer;Cricket+Addict;Anime+Lover;&center=true&width=500&height=60"></a>
 </p>
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I’m currently working on improving **Web Development Skills**
@@ -29,6 +30,9 @@
 - 📫 Mail me **gautammanoj767@gmail.com**
 
 <br>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">⚙️ Languages and Tools</h2>
 
@@ -39,12 +43,16 @@
 </p>
 
 <br>
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">🏆 Github Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautammangesh&theme=radical" alt="Gautammangesh" /></a> </p> 
 
 <br>
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <!-- Statistics -->
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
@@ -66,22 +74,30 @@
 <div align="center"><img src="https://streak-stats.demolab.com?user=Gautammangesh&theme=radical" alt="GitHub Streak" /></div>
 
 <br><br>
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BGautammangesh10%7D/count.svg" alt="visitor badge"/></p>
 <br>
 <!-- <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Gautammangesh&style=for-the-badge&color=orange" alt=""/>
 </div> -->
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <p align="center">
   <img src="https://github.com/Gautammangesh/Gautammangesh/blob/output/github-snake.svg" alt="snake">
 </p>
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <p align="center"><b>Have some fun!</b></p>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
 
 <p align="center">
